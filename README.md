@@ -9,3 +9,22 @@ A full list features include:
 
 ## Demo
 ![Demo for word seach mania.](demo-images/word-search-mania-demo.gif)
+
+## Getting Started
+You can deploy your own version of the game onto your machine.
+### Prerequisites
++ Python 3
++ PyQt5
+
+You can get PyQt5 using pip:
+```
+pip3 install pyqt5
+```
+### Instructions
+First, clone the repo. Next, you can run the source file to start the game:
+```
+python3 source1.py
+```
+## Credits
++ [English dictionary text file](https://github.com/grantjenks/free-python-games)
++ [Logo from logomakr.com](https://logomakr.com)
