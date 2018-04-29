@@ -1,7 +1,7 @@
 # Word Search Mania
-Word Search Mania is a full featured customizable Python 3 word search game created using the PyQt5 framework. With Word Search Mania, words are randomly pulled out of a [dictionary text file](https://github.com/dwyl/english-words) which contain around 370K words. A custom word bank can also be created in the customization menu.
+Word Search Mania is a full featured customizable Python 3 word search game created using the PyQt5 framework. With Word Search Mania, words are randomly pulled out of a [dictionary text file](https://github.com/dwyl/english-words) which contains around 370K words. A custom word bank can also be created in the customization menu.
 
-A full list features include:
+A full list of features include:
 1. Choose size of word seach matrix
 2. Add custom words
 3. Choose how words are generated in the matrix
@@ -21,7 +21,7 @@ You can get PyQt5 using pip:
 pip3 install pyqt5
 ```
 ### Instructions
-First, clone the repo. Next, you can run the source file to start the game:
+First, clone the repo. Next, you can run the source file on the terminal to start the game:
 ```
 python3 source1.py
 ```
