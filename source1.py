@@ -57,7 +57,7 @@ class StartMenu(QWidget):
 
         logoImage = QLabel()
         logoImage.setGeometry(10, 10, 10, 10)
-        logoImage.setPixmap(QPixmap("Logomakr_7KyVoE.png").scaledToWidth(500))
+        logoImage.setPixmap(QPixmap("logo.png").scaledToWidth(500))
 
         hBox = QHBoxLayout()
         hBox.addWidget(buttonQuit)
