@@ -28,3 +28,6 @@ python3 source1.py
 ## Credits
 + [English dictionary text file](https://github.com/grantjenks/free-python-games)
 + [Logo from logomakr.com](https://logomakr.com)
+
+## License
+This project is licensed under the MIT License — see the [LICENSE.md](./LICENSE.md) file for details.
