@@ -1,4 +1,4 @@
-# Word Search Mania under the MIT License
+# Word Search Mania is under the MIT License
 #
 # Copyright (c) 2018 Mihir Patel
 #
